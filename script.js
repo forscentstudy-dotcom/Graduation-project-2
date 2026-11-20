@@ -45,7 +45,7 @@ function resetTyping() {
 
 
 // ページ読み込み時に実行
-window.addEventListener("DOMContentLoaded", typeTitle);
+window.addEventListener("DOMContentLoaded", typeTitle); 
 
 
 
