@@ -1,5 +1,5 @@
 const titleText = "SCENT";
-const subText = "Crazy for the World!";
+const subText = "Captivated by the world!";
 const titleEl = document.getElementById("typing-title");
 const subEl = document.getElementById("typing-sub");
 
@@ -46,7 +46,6 @@ function resetTyping() {
 
 // ページ読み込み時に実行
 window.addEventListener("DOMContentLoaded", typeTitle); 
-
 
 
 
